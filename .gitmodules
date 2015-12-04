@@ -7,3 +7,12 @@
 [submodule "sparkfun-weather-shield"]
 	path = sparkfun-weather-shield
 	url = https://github.com/ms-iot/sparkfun-weather-shield.git
+[submodule "onedrive-connector"]
+	path = onedrive-connector
+	url = https://github.com/ms-iot/onedrive-connector
+[submodule "pir-sensor"]
+	path = pir-sensor
+	url = https://github.com/ms-iot/pir-sensor
+[submodule "usb-camera"]
+	path = usb-camera
+	url = https://github.com/ms-iot/usb-camera
